@@ -1,0 +1,50 @@
+[
+  {
+    "id": 1,
+    "nombre": "Bidón de 20L",
+    "descripcion": "Agua de bebida envasada en bidón retornable de 20 litros, ideal para uso doméstico y oficinas.",
+    "imagen": "/images/bidon 20.png"
+  },
+  {
+    "id": 2,
+    "nombre": "Dispenser Frio Calor",
+    "descripcion": "Dispenser frío/calor compatible con bidones estándar de 20L y 12L",
+    "imagen": "/images/dispenser.png"
+  },
+  {
+    "id": 3,
+    "nombre": "Bidon de 12L",
+    "descripcion": "Agua de bebida envasada en bidón retornable de 12 litros, ideal para uso doméstico y oficinas.",
+    "imagen": "/images/bidon12.png"
+  },
+  {
+    "id": 4,
+    "nombre": "Agua Tridestilada Pompagua",
+    "descripcion": "Agua tridestilada de máxima pureza, ideal para laboratorios, planchas, baterías y equipos que requieren agua sin minerales.",
+    "imagen": "/images/tridestilada.png"
+  },
+  {
+    "id": 5,
+    "nombre": "Agua por 2L descartable",
+    "descripcion": "Agua por 2L en botella de plastico descartable",
+    "imagen": "/images/agua 2l.png"
+  },
+  {
+    "id": 6,
+    "nombre": "Agua por 500ml descartable",
+    "descripcion": "Agua por 500ml en botella de plastico descartable",
+    "imagen": "/images/agua500ml.png"
+  },
+  {
+    "id": 7,
+    "nombre": "Refrigerante listo para usar",
+    "descripcion": "Refrigerante listo para usar, ideal para talleres mecanicos o para uso particular",
+    "imagen": "/images/refrigerante.png"
+  },
+  {
+    "id": 8,
+    "nombre": "Soda Pompagua",
+    "descripcion": "Soda envasada con la mejor calidad de Villa Mercede",
+    "imagen": "/images/soda.png"
+  }
+]
