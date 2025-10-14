@@ -27,7 +27,7 @@
     "id": 5,
     "nombre": "Agua por 2L descartable",
     "descripcion": "Agua por 2L en botella de plastico descartable",
-    "imagen": "/images/agua 2l.png"
+    "imagen": "/images/agua 2l;.png"
   },
   {
     "id": 6,
@@ -44,7 +44,25 @@
   {
     "id": 8,
     "nombre": "Soda Pompagua",
-    "descripcion": "Soda envasada con la mejor calidad de Villa Mercede",
+    "descripcion": "Soda envasada con la mejor calidad de Villa Mercedes",
     "imagen": "/images/soda.png"
+  },
+  {
+    "id": 9,
+    "nombre": "Hielo 2kg",
+    "descripcion": "Hielo Cristalino fabricacion propia, maxima calidad",
+    "imagen": "/images/hielo2kg.JPEG"
+  },
+  {
+    "id": 10,
+    "nombre": "Hielo 10kg",
+    "descripcion": "Hielo Cristalino fabricacion propia, maxima calidad",
+    "imagen": "/images/hielo10kg.JPEG"
+  },
+  {
+    "id": 12,
+    "nombre": "Bidon 10L",
+    "descripcion": "Bidon descartable para venta en kioscos y comercios",
+    "imagen": "/images/bidon.JPEG"
   }
 ]
