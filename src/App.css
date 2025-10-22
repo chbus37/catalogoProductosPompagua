@@ -10,3 +10,10 @@
   display: block;
   margin: 0 auto;
 }
+
+@media (max-width: 500px) {
+  .logo {
+    width: 200px;
+    height: 200px;
+  }
+}

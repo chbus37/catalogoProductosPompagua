@@ -10,7 +10,8 @@
   align-items: center;
   color: #fff;
   padding: 40px 0;
-  font-size: 1.1rem;
+  font-size: 1rem;
+  font-weight: 400;
 }
 
 .icons-container {
@@ -34,7 +35,12 @@
   .footerContainer {
     flex-direction: column;
     gap: 2rem;
-    font-size: 1rem;
+    font-size: 0.7rem;
     padding: 20px 0;
+  }
+
+  .icon {
+    width: 20px;
+    height: 20px;
   }
 }
